@@ -1,0 +1,3 @@
+C:\Users\Enyvione\Source\Repos\ClientSideTeamFetchRandom\FetchRandom\obj\Debug\FetchRandom.njsproj.CoreCompileInputs.cache
+C:\Users\Enyvione\Source\Repos\ClientSideTeamFetchRandom\FetchRandom\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Enyvione\Source\Repos\ClientSideTeamFetchRandom\FetchRandom\obj\Debug\FetchRandom.njsprojAssemblyReference.cache
